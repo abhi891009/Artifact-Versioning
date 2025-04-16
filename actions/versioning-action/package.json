@@ -6,7 +6,8 @@
     "dependencies": {
       "semantic-release": "^17.3.0",
       "conventional-changelog-conventionalcommits-parser": "^3.2.1",
-      "@prime/vue-demi": "^1.0.0"  
+      "@vue-demi/api": "^1.0.0"  
     }
   }
+  
   
