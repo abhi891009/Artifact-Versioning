@@ -14,10 +14,11 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Update to match the version you need
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
+        working-directory: ./actions/versioning-action  # Specify the correct directory
 
       - name: Run custom versioning action
         uses: ./actions/versioning-action
