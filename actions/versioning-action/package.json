@@ -6,7 +6,7 @@
     "dependencies": {
       "semantic-release": "^17.3.0",
       "conventional-changelog-conventionalcommits-parser": "^3.2.1",
-      "@etrinno/core": "^1.0.0" 
+      "@prime/vue-demi": "^1.0.0"  
     }
   }
   
