@@ -1,0 +1,1 @@
+This GitHub Action automates the versioning of build artifacts (e.g., JAR files, Docker images) based on commit messages. It uses semantic versioning to ensure that version numbers are incremented consistently and meaningfully.
